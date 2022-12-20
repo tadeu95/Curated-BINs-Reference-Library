@@ -1,6 +1,6 @@
-# Curated-BINs-Reference-Library
+# *Curated-BINs-Reference-Library*
 
-This script selects the previously curated BINs (Barcode Index Numbers) and species names from a complete graded library (resultant from the BAGS analysis: https://github.com/tadeu95/BAGS) 
+This script selects the previously curated BINs (Barcode Index Numbers) and species names from a complete graded library (resultant from the BAGS analysis: [Link1](https://github.com/tadeu95/BAGS)) 
 and selects three representative records from each BIN based on previously established quality-control criteria. 
 
 If two or more records are tied in relation to the criteria, one record is randomly selected. 
