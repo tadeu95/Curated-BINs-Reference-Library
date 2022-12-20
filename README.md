@@ -22,7 +22,9 @@ Before running this script, you should prepare your input files: one reference l
 and one csv/tsv file comprising a previously curated list of BINs with their corresponding species names. The file must contain a header and the first two columns should comprise, respectively, the BINs and the species names. 
 The species names column must be named “species” (case-sensitive).
 
-Then, any R environment can be used (e.g., RStudio) to run the script. Usage instructions:
+Then, any R environment can be used (e.g., RStudio) to run the script. 
+
+**Usage instructions:**
 1.	Go to “File” in the top left corner, select “Open File” and search for the script to open it in your R environment.
 2.	Install the necessary packages by running the following command: 
 ```
