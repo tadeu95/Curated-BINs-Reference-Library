@@ -19,8 +19,10 @@ Then, any R environment can be used (e.g., RStudio) to run the script. Usage ins
 ```
 install.packages(c("tidyr","dplyr"))
 ```
-3-	Set your working directory to a folder or directory containing the input files. You can do this manually in RStudio by browsing for the directory then clicking “More” and “Set as working directory”. Alternatively, you can use the “setwd” function. Example: 
-``` setwd("C:/User/Folder_with_input_files")```
+3-	Set your working directory to a folder or directory containing the input files. You can do this manually in RStudio by browsing for the directory then clicking “More” and “Set as working directory”. Alternatively, you can use the “setwd” function. Example:
+```
+setwd("C:/User/Folder_with_input_files")
+```
 4-	Run the script either by running each line individually or by running the entire script at once.
 5-	Check your working directory, where you should find the output files.
 
