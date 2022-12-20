@@ -16,7 +16,7 @@ Nine sequence size classes were created to select the 3 records from each BIN:
 7.  ≥ 500 & <525 bp; 
 8.  <500 & >658 bp.  
 
-Within each sequence size category, priority is given to the records that have geographical information (i.e., country of region of origin).
+Within each sequence size category, priority is given to the records that have geographical information (i.e., country or region of origin).
 
 Before running this script, you should prepare your input files: one reference library obtained from the BAGS analysis in tsv or csv format; 
 and one csv/tsv file comprising a previously curated list of BINs with their corresponding species names. The file must contain a header and the first two columns should comprise, respectively, the BINs and the species names. 
