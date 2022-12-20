@@ -7,7 +7,7 @@ If two or more records are tied in relation to the criteria, one record is rando
 
 The criteria for record selection are based on the size of the sequences and the presence of geographic information for the specimen. 
 Nine sequence size classes were created to select the 3 records from each BIN: 
-1. sequences with 658 bp; 
+1. 658 bp; 
 2. ≥ 650 & <658 bp; 
 3. ≥ 600 & <625 bp; 
 4. ≥ 575 & <600 bp; 
