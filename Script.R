@@ -10,7 +10,7 @@ setwd("C:/User/Folder_with_input_files")
 
 ###Load data set
 bold_coi<-read.delim("BAGS_records.csv",sep=";")
-bins<-read.delim("CuratedBINs (1).csv",sep=";")
+bins<-read.delim("CuratedBINs.csv",sep=";")
 
 ###Subset only curated BINs
 bold_coi<-bold_coi[bold_coi$BIN %in% bins$BIN,]
